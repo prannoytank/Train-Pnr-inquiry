@@ -11,7 +11,7 @@ Bootstrap framework , css3,html
 
 Back-end
 
-jsp,servlet , jsoup library
+J2EE , jsoup library
 
 
 
